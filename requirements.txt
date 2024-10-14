@@ -1,4 +1,0 @@
-gym #==0.10.5
-numpy #==1.15.2
-sklearn #==0.19.1
-matplotlib #==2.1.2
